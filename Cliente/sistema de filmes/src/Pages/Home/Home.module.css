@@ -1,0 +1,25 @@
+.homeContainer{
+    padding:4rem 5rem
+}
+
+.pesquisar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pesquisar h1{
+color: #E5E2E9;
+font-family: "Rammetto One";
+font-size: 2rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.filmes{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 1rem;  
+}

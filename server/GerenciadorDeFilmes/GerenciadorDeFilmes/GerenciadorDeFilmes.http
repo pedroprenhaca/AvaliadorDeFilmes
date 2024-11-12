@@ -1,0 +1,6 @@
+@GerenciadorDeFilmes_HostAddress = http://localhost:5016
+
+GET {{GerenciadorDeFilmes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

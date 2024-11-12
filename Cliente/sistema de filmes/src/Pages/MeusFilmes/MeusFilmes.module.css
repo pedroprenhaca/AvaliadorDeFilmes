@@ -1,0 +1,53 @@
+.MeusFilmesContainer{
+    padding: 3rem 4rem;
+
+}
+
+.titulo{
+    font-family: "Rammetto One";
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    color:#E5E2E9;
+}
+
+.TituloEPesquisar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pesquisar{
+    display: flex;
+    gap: 2rem;
+}
+
+.pesquisar button{
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem;
+    width: 6rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    border: none;
+
+    background-color: #892CCD;
+
+    font-size: 1rem;
+    color:#ffffff ;
+}
+
+.button svg{
+    width: 1rem;
+    height: 1rem;
+}
+
+.FilmesContainer{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 1rem;  
+}
